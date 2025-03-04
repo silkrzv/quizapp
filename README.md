@@ -22,22 +22,28 @@ quizapp/
 
 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/silkrzv/quizapp.git
 cd quizapp
+```
 
 2️⃣ Backend Setup
 
+```bash
 cd backend
 mvn clean install
 mvn spring-boot:run
+```
 
 The backend will run at http://localhost:8080
 
 3️⃣ Frontend Setup
 
+```bash
 cd ../frontend
 npm install
 npm run dev
+```
 
 🎯 Features
 
