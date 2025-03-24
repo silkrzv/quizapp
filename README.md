@@ -1,4 +1,3 @@
-HEAD
 # QuizApp
 
 QuizApp is a quiz application developed with a Spring Boot backend and a React frontend. The project allows users to answer questions from various categories and track their scores.
